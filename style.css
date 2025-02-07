@@ -1,0 +1,27 @@
+body{
+	background-image: url(https://www.shutterstock.com/image-illustration/black-grey-white-liquid-color-600nw-2525297273.jpg);
+	font-family: "Outfit", sans-serif;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: 100% 100%;
+  	color: white;
+  	text-align: center;
+}
+
+.container {
+	padding: 20px;
+	background-color: rgba(0, 0, 0, 0.5);
+	font-family: "Outfit", sans-serif;
+}
+
+    .card {
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    a {
+	color: white;
+}
+
+
